@@ -1,0 +1,22 @@
+Các thông tin và thư viện dùng trong Code phòng trọ
+I.Thư Viện:  
+  1. Tailwind
+ - Tailwind CSS hoạt động bằng cách quét tất cả các tệp HTML, thành phần JavaScript và bất kỳ mẫu nào khác để tìm tên lớp, tạo kiểu tương ứng rồi ghi chúng vào tệp CSS tĩnh.
+- Nó nhanh, linh hoạt và đáng tin cậy — không có thời gian chạy.
+---cài đặt--
++ npm install -D tailwindcss
++ npx tailwindcss init
+link:https://tailwindcss.com/docs/installation
+
+  2. redux + redux-persist
+-React Redux là lớp liên kết React UI chính thức cho Redux . Nó cho phép các thành phần React của bạn đọc dữ liệu từ cửa hàng Redux và gửi các hành động đến cửa hàng để cập nhật trạng thái.
+
+---cài đặt--
++ npm i redux react-redux redux-persist
+3. thunk dùng để xử lý bất đồng bộ giữa react và redux
+   axios code api
+   react-router-dom 
+
+
+---cài đặt--
++ npm i thunk axios react-router-dom
