@@ -9,6 +9,7 @@ import { useDispatch, useSelector } from 'react-redux'
 const Home = () => {
     const { isLoggedIn } = useSelector(state => state.auth)
 
+    
     return (
         <div className='w-full flex gap-6 flex-col items-center h-full'>
             <Header />

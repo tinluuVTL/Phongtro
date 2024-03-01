@@ -18,7 +18,7 @@ const menuManage = [
     {
         id: 5,
         text: 'Quản lý phòng Trọ',
-        path: 'https://cnpm-gr17.vercel.app/authen/login',
+        path: 'https://cnpm-gr17.vercel.app',
         icon: <MdOutlineLibraryBooks />
     },
     {

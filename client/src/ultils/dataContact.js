@@ -4,18 +4,18 @@ export const text = {
     contacts: [
         {
             text: 'HỖ TRỢ THANH TOÁN',
-            phone: 'Điện thoại: 00971784954',
-            zalo: 'Zalo: 00971784954'
+            phone: 'Điện thoại:0971784954',
+            zalo: 'Zalo:0971784954'
         },
         {
             text: 'HỖ TRỢ ĐĂNG TIN',
-            phone: 'Điện thoại: 0902657123',
-            zalo: 'Zalo: 0902657123'
+            phone: 'Điện thoại: 0971784954',
+            zalo: 'Zalo: 0971784954'
         },
         {
             text: 'HOTLINE 24/7',
-            phone: 'Điện thoại: 00971784954',
-            zalo: 'Zalo: 00971784954'
+            phone: 'Điện thoại:0971784954',
+            zalo: 'Zalo:0971784954'
         },
     ]
 }

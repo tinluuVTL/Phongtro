@@ -9,7 +9,7 @@ const { GrStar, RiHeartFill, RiHeartLine, BsBookmarkStarFill } = icons
 
 const Item = ({ images, user, title, star, description, attributes, address, id }) => {
     const [isHoverHeart, setIsHoverHeart] = useState(false)
-
+const Navigate= useNavigate()
     const handleStar = (star) => {
         let stars = []
         for (let i = 1; i <= +star; i++) stars.push(<GrStar className='star-item' size={18} color='yellow' />)
